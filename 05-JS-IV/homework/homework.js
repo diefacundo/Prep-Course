@@ -15,7 +15,7 @@ function agregarPropiedad (objeto, property) {
   // Tu código:
 }
 
-function invocarMetodo (objeto, metodo) {
+function invocarMetodo (objeto, metodo) { "asljdigbh"
   // "metodo" es una cadena que contiene el nombre de un método (funcion) en el objeto
   // Invoca ese método
   // Nada necesita ser devuelto ("returned")
